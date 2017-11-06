@@ -1,0 +1,9002 @@
+[
+  {
+    "id": 1000,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7983262239774859,
+    "numberGenerated": 121,
+    "numberRecorded": 91
+  },
+  {
+    "id": 1001,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.757195532008564,
+    "numberGenerated": 120,
+    "numberRecorded": 87
+  },
+  {
+    "id": 1002,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5148906790032096,
+    "numberGenerated": 121,
+    "numberRecorded": 64
+  },
+  {
+    "id": 1003,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1004,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.538728797956403,
+    "numberGenerated": 241,
+    "numberRecorded": 127
+  },
+  {
+    "id": 1005,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1006,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.22763687681760586,
+    "numberGenerated": 121,
+    "numberRecorded": 32
+  },
+  {
+    "id": 1007,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8118732916288028,
+    "numberGenerated": 483,
+    "numberRecorded": 404
+  },
+  {
+    "id": 1008,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.25014136288370503,
+    "numberGenerated": 477,
+    "numberRecorded": 122
+  },
+  {
+    "id": 1009,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1010,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7851557230764378,
+    "numberGenerated": 241,
+    "numberRecorded": 194
+  },
+  {
+    "id": 1011,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1012,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5913467261212451,
+    "numberGenerated": 241,
+    "numberRecorded": 139
+  },
+  {
+    "id": 1013,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.560337214976665,
+    "numberGenerated": 119,
+    "numberRecorded": 65
+  },
+  {
+    "id": 1014,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2946290184437083,
+    "numberGenerated": 241,
+    "numberRecorded": 65
+  },
+  {
+    "id": 1015,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1016,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7998515433126925,
+    "numberGenerated": 120,
+    "numberRecorded": 90
+  },
+  {
+    "id": 1017,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7939820851902816,
+    "numberGenerated": 120,
+    "numberRecorded": 99
+  },
+  {
+    "id": 1018,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7900288390073844,
+    "numberGenerated": 121,
+    "numberRecorded": 95
+  },
+  {
+    "id": 1019,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8071899949112825,
+    "numberGenerated": 121,
+    "numberRecorded": 102
+  },
+  {
+    "id": 1020,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8196034755978088,
+    "numberGenerated": 240,
+    "numberRecorded": 203
+  },
+  {
+    "id": 1021,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5019508696511265,
+    "numberGenerated": 476,
+    "numberRecorded": 230
+  },
+  {
+    "id": 1022,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5202178704878907,
+    "numberGenerated": 120,
+    "numberRecorded": 57
+  },
+  {
+    "id": 1023,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7668281016038491,
+    "numberGenerated": 482,
+    "numberRecorded": 351
+  },
+  {
+    "id": 1024,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7749941721592157,
+    "numberGenerated": 487,
+    "numberRecorded": 387
+  },
+  {
+    "id": 1025,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1026,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5413610695865678,
+    "numberGenerated": 484,
+    "numberRecorded": 268
+  },
+  {
+    "id": 1027,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5340528891333387,
+    "numberGenerated": 119,
+    "numberRecorded": 68
+  },
+  {
+    "id": 1028,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7630085716752928,
+    "numberGenerated": 241,
+    "numberRecorded": 169
+  },
+  {
+    "id": 1029,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1030,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8434992959680755,
+    "numberGenerated": 474,
+    "numberRecorded": 391
+  },
+  {
+    "id": 1031,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1032,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 237,
+    "numberRecorded": 237
+  },
+  {
+    "id": 1033,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7769216083341309,
+    "numberGenerated": 238,
+    "numberRecorded": 182
+  },
+  {
+    "id": 1034,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5929627328484226,
+    "numberGenerated": 120,
+    "numberRecorded": 74
+  },
+  {
+    "id": 1035,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7658157815499728,
+    "numberGenerated": 120,
+    "numberRecorded": 94
+  },
+  {
+    "id": 1036,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7916878924480643,
+    "numberGenerated": 239,
+    "numberRecorded": 191
+  },
+  {
+    "id": 1037,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.824999742486473,
+    "numberGenerated": 120,
+    "numberRecorded": 97
+  },
+  {
+    "id": 1038,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.30074134000261515,
+    "numberGenerated": 473,
+    "numberRecorded": 143
+  },
+  {
+    "id": 1039,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 483,
+    "numberRecorded": 483
+  },
+  {
+    "id": 1040,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5010605347427786,
+    "numberGenerated": 120,
+    "numberRecorded": 61
+  },
+  {
+    "id": 1041,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5351009823857151,
+    "numberGenerated": 121,
+    "numberRecorded": 65
+  },
+  {
+    "id": 1042,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 243,
+    "numberRecorded": 243
+  },
+  {
+    "id": 1043,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1044,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.23995275459297324,
+    "numberGenerated": 120,
+    "numberRecorded": 32
+  },
+  {
+    "id": 1045,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2457242477976301,
+    "numberGenerated": 120,
+    "numberRecorded": 28
+  },
+  {
+    "id": 1046,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2914515431875221,
+    "numberGenerated": 490,
+    "numberRecorded": 156
+  },
+  {
+    "id": 1047,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5797529260831412,
+    "numberGenerated": 482,
+    "numberRecorded": 291
+  },
+  {
+    "id": 1048,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.153442699683278,
+    "numberGenerated": 119,
+    "numberRecorded": 18
+  },
+  {
+    "id": 1049,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5195536787460369,
+    "numberGenerated": 241,
+    "numberRecorded": 114
+  },
+  {
+    "id": 1050,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.3012745234730102,
+    "numberGenerated": 120,
+    "numberRecorded": 33
+  },
+  {
+    "id": 1051,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8380047492292365,
+    "numberGenerated": 241,
+    "numberRecorded": 197
+  },
+  {
+    "id": 1052,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1053,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.822350015923591,
+    "numberGenerated": 120,
+    "numberRecorded": 96
+  },
+  {
+    "id": 1054,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5414475715428275,
+    "numberGenerated": 121,
+    "numberRecorded": 60
+  },
+  {
+    "id": 1055,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 484,
+    "numberRecorded": 484
+  },
+  {
+    "id": 1056,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1057,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1058,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.18054478911229713,
+    "numberGenerated": 121,
+    "numberRecorded": 25
+  },
+  {
+    "id": 1059,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.798952532375095,
+    "numberGenerated": 239,
+    "numberRecorded": 189
+  },
+  {
+    "id": 1060,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.19505291896299673,
+    "numberGenerated": 120,
+    "numberRecorded": 20
+  },
+  {
+    "id": 1061,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5050768650298265,
+    "numberGenerated": 240,
+    "numberRecorded": 119
+  },
+  {
+    "id": 1062,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5233563222308221,
+    "numberGenerated": 243,
+    "numberRecorded": 130
+  },
+  {
+    "id": 1063,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5398026775763239,
+    "numberGenerated": 239,
+    "numberRecorded": 137
+  },
+  {
+    "id": 1064,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8439145144978153,
+    "numberGenerated": 475,
+    "numberRecorded": 395
+  },
+  {
+    "id": 1065,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1066,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.558688221438288,
+    "numberGenerated": 477,
+    "numberRecorded": 267
+  },
+  {
+    "id": 1067,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8288079789041142,
+    "numberGenerated": 120,
+    "numberRecorded": 103
+  },
+  {
+    "id": 1068,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.1714336541858136,
+    "numberGenerated": 240,
+    "numberRecorded": 48
+  },
+  {
+    "id": 1069,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1070,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 242,
+    "numberRecorded": 242
+  },
+  {
+    "id": 1071,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.198736573221273,
+    "numberGenerated": 120,
+    "numberRecorded": 22
+  },
+  {
+    "id": 1072,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5520750127220485,
+    "numberGenerated": 120,
+    "numberRecorded": 67
+  },
+  {
+    "id": 1073,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5853037090503916,
+    "numberGenerated": 471,
+    "numberRecorded": 275
+  },
+  {
+    "id": 1074,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 480,
+    "numberRecorded": 480
+  },
+  {
+    "id": 1075,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.16913819951467934,
+    "numberGenerated": 120,
+    "numberRecorded": 21
+  },
+  {
+    "id": 1076,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5564820974615066,
+    "numberGenerated": 486,
+    "numberRecorded": 268
+  },
+  {
+    "id": 1077,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7833591299521702,
+    "numberGenerated": 121,
+    "numberRecorded": 99
+  },
+  {
+    "id": 1078,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 486,
+    "numberRecorded": 486
+  },
+  {
+    "id": 1079,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.16093823205691096,
+    "numberGenerated": 486,
+    "numberRecorded": 72
+  },
+  {
+    "id": 1080,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1081,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1082,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7588280595165288,
+    "numberGenerated": 490,
+    "numberRecorded": 371
+  },
+  {
+    "id": 1083,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1084,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2904322124408505,
+    "numberGenerated": 242,
+    "numberRecorded": 64
+  },
+  {
+    "id": 1085,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.17756353504950467,
+    "numberGenerated": 241,
+    "numberRecorded": 42
+  },
+  {
+    "id": 1086,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7594940710138709,
+    "numberGenerated": 121,
+    "numberRecorded": 90
+  },
+  {
+    "id": 1087,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8237519737661375,
+    "numberGenerated": 242,
+    "numberRecorded": 205
+  },
+  {
+    "id": 1088,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.292277152302067,
+    "numberGenerated": 120,
+    "numberRecorded": 31
+  },
+  {
+    "id": 1089,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.24993161887103255,
+    "numberGenerated": 482,
+    "numberRecorded": 101
+  },
+  {
+    "id": 1090,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7830715062682472,
+    "numberGenerated": 477,
+    "numberRecorded": 384
+  },
+  {
+    "id": 1091,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.24434317326266858,
+    "numberGenerated": 120,
+    "numberRecorded": 32
+  },
+  {
+    "id": 1092,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.208732867748911,
+    "numberGenerated": 241,
+    "numberRecorded": 45
+  },
+  {
+    "id": 1093,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5137341652349271,
+    "numberGenerated": 119,
+    "numberRecorded": 62
+  },
+  {
+    "id": 1094,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 243,
+    "numberRecorded": 243
+  },
+  {
+    "id": 1095,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1096,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7958054538015971,
+    "numberGenerated": 240,
+    "numberRecorded": 189
+  },
+  {
+    "id": 1097,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5745727768825822,
+    "numberGenerated": 490,
+    "numberRecorded": 285
+  },
+  {
+    "id": 1098,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.796085639602324,
+    "numberGenerated": 241,
+    "numberRecorded": 179
+  },
+  {
+    "id": 1099,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.27308437876445335,
+    "numberGenerated": 473,
+    "numberRecorded": 126
+  },
+  {
+    "id": 1100,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2049209674654201,
+    "numberGenerated": 120,
+    "numberRecorded": 19
+  },
+  {
+    "id": 1101,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 481,
+    "numberRecorded": 481
+  },
+  {
+    "id": 1102,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1103,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5581090604886129,
+    "numberGenerated": 121,
+    "numberRecorded": 61
+  },
+  {
+    "id": 1104,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1105,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7809139710279956,
+    "numberGenerated": 237,
+    "numberRecorded": 190
+  },
+  {
+    "id": 1106,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 482,
+    "numberRecorded": 482
+  },
+  {
+    "id": 1107,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5285849620104753,
+    "numberGenerated": 240,
+    "numberRecorded": 130
+  },
+  {
+    "id": 1108,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8237260953715345,
+    "numberGenerated": 120,
+    "numberRecorded": 107
+  },
+  {
+    "id": 1109,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1110,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 482,
+    "numberRecorded": 482
+  },
+  {
+    "id": 1111,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5968190843410829,
+    "numberGenerated": 479,
+    "numberRecorded": 302
+  },
+  {
+    "id": 1112,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.1742222965055203,
+    "numberGenerated": 479,
+    "numberRecorded": 83
+  },
+  {
+    "id": 1113,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5109772014977105,
+    "numberGenerated": 487,
+    "numberRecorded": 263
+  },
+  {
+    "id": 1114,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 477,
+    "numberRecorded": 477
+  },
+  {
+    "id": 1115,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1116,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5168432038525863,
+    "numberGenerated": 121,
+    "numberRecorded": 68
+  },
+  {
+    "id": 1117,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.24163659345108085,
+    "numberGenerated": 242,
+    "numberRecorded": 68
+  },
+  {
+    "id": 1118,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1119,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8395123665426261,
+    "numberGenerated": 121,
+    "numberRecorded": 100
+  },
+  {
+    "id": 1120,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 482,
+    "numberRecorded": 482
+  },
+  {
+    "id": 1121,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5509015834039502,
+    "numberGenerated": 241,
+    "numberRecorded": 133
+  },
+  {
+    "id": 1122,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5649855636270062,
+    "numberGenerated": 478,
+    "numberRecorded": 248
+  },
+  {
+    "id": 1123,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.22180142650796913,
+    "numberGenerated": 120,
+    "numberRecorded": 28
+  },
+  {
+    "id": 1124,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8223949619249253,
+    "numberGenerated": 240,
+    "numberRecorded": 204
+  },
+  {
+    "id": 1125,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 472,
+    "numberRecorded": 472
+  },
+  {
+    "id": 1126,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8328612209359076,
+    "numberGenerated": 473,
+    "numberRecorded": 397
+  },
+  {
+    "id": 1127,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8379162867595692,
+    "numberGenerated": 487,
+    "numberRecorded": 414
+  },
+  {
+    "id": 1128,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8141803835904333,
+    "numberGenerated": 488,
+    "numberRecorded": 391
+  },
+  {
+    "id": 1129,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1130,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 480,
+    "numberRecorded": 480
+  },
+  {
+    "id": 1131,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5130297803447899,
+    "numberGenerated": 483,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1132,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1133,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1134,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.25952438089764285,
+    "numberGenerated": 120,
+    "numberRecorded": 27
+  },
+  {
+    "id": 1135,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8463419208743733,
+    "numberGenerated": 241,
+    "numberRecorded": 214
+  },
+  {
+    "id": 1136,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2540695663157846,
+    "numberGenerated": 119,
+    "numberRecorded": 30
+  },
+  {
+    "id": 1137,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 479,
+    "numberRecorded": 479
+  },
+  {
+    "id": 1138,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1139,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5679686332636843,
+    "numberGenerated": 121,
+    "numberRecorded": 70
+  },
+  {
+    "id": 1140,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1141,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7802833516934232,
+    "numberGenerated": 120,
+    "numberRecorded": 93
+  },
+  {
+    "id": 1142,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 481,
+    "numberRecorded": 481
+  },
+  {
+    "id": 1143,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7878012507494666,
+    "numberGenerated": 487,
+    "numberRecorded": 394
+  },
+  {
+    "id": 1144,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8421370056815342,
+    "numberGenerated": 120,
+    "numberRecorded": 103
+  },
+  {
+    "id": 1145,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7909150736075591,
+    "numberGenerated": 120,
+    "numberRecorded": 91
+  },
+  {
+    "id": 1146,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 486,
+    "numberRecorded": 486
+  },
+  {
+    "id": 1147,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8354907518311732,
+    "numberGenerated": 493,
+    "numberRecorded": 414
+  },
+  {
+    "id": 1148,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.25311493012465447,
+    "numberGenerated": 241,
+    "numberRecorded": 65
+  },
+  {
+    "id": 1149,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1150,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.25508478491422926,
+    "numberGenerated": 485,
+    "numberRecorded": 112
+  },
+  {
+    "id": 1151,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8020975584936296,
+    "numberGenerated": 121,
+    "numberRecorded": 95
+  },
+  {
+    "id": 1152,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 480,
+    "numberRecorded": 480
+  },
+  {
+    "id": 1153,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 483,
+    "numberRecorded": 483
+  },
+  {
+    "id": 1154,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.806319695607791,
+    "numberGenerated": 479,
+    "numberRecorded": 390
+  },
+  {
+    "id": 1155,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1156,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5119301309771392,
+    "numberGenerated": 238,
+    "numberRecorded": 112
+  },
+  {
+    "id": 1157,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1158,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1159,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5115059153660858,
+    "numberGenerated": 121,
+    "numberRecorded": 63
+  },
+  {
+    "id": 1160,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5278674411870782,
+    "numberGenerated": 483,
+    "numberRecorded": 251
+  },
+  {
+    "id": 1161,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.15523752721772113,
+    "numberGenerated": 120,
+    "numberRecorded": 20
+  },
+  {
+    "id": 1162,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.836004380390007,
+    "numberGenerated": 238,
+    "numberRecorded": 204
+  },
+  {
+    "id": 1163,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8004344917253821,
+    "numberGenerated": 121,
+    "numberRecorded": 98
+  },
+  {
+    "id": 1164,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 238,
+    "numberRecorded": 238
+  },
+  {
+    "id": 1165,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.507081180927931,
+    "numberGenerated": 243,
+    "numberRecorded": 136
+  },
+  {
+    "id": 1166,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 479,
+    "numberRecorded": 479
+  },
+  {
+    "id": 1167,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1168,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2894959810117109,
+    "numberGenerated": 121,
+    "numberRecorded": 28
+  },
+  {
+    "id": 1169,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 243,
+    "numberRecorded": 243
+  },
+  {
+    "id": 1170,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1171,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1172,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5087501415290518,
+    "numberGenerated": 474,
+    "numberRecorded": 247
+  },
+  {
+    "id": 1173,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1174,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1175,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5674964019405996,
+    "numberGenerated": 120,
+    "numberRecorded": 79
+  },
+  {
+    "id": 1176,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5070530755413954,
+    "numberGenerated": 475,
+    "numberRecorded": 238
+  },
+  {
+    "id": 1177,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7559474516808373,
+    "numberGenerated": 240,
+    "numberRecorded": 188
+  },
+  {
+    "id": 1178,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.25508321952990015,
+    "numberGenerated": 240,
+    "numberRecorded": 71
+  },
+  {
+    "id": 1179,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1180,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8248479795560841,
+    "numberGenerated": 238,
+    "numberRecorded": 199
+  },
+  {
+    "id": 1181,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7636291148157368,
+    "numberGenerated": 239,
+    "numberRecorded": 187
+  },
+  {
+    "id": 1182,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 242,
+    "numberRecorded": 242
+  },
+  {
+    "id": 1183,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5617438532632675,
+    "numberGenerated": 482,
+    "numberRecorded": 248
+  },
+  {
+    "id": 1184,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8019809228524006,
+    "numberGenerated": 482,
+    "numberRecorded": 394
+  },
+  {
+    "id": 1185,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5067928876190422,
+    "numberGenerated": 243,
+    "numberRecorded": 125
+  },
+  {
+    "id": 1186,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8220136948966211,
+    "numberGenerated": 483,
+    "numberRecorded": 388
+  },
+  {
+    "id": 1187,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 242,
+    "numberRecorded": 242
+  },
+  {
+    "id": 1188,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2506047823447729,
+    "numberGenerated": 239,
+    "numberRecorded": 67
+  },
+  {
+    "id": 1189,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5086784956194835,
+    "numberGenerated": 121,
+    "numberRecorded": 68
+  },
+  {
+    "id": 1190,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1191,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 242,
+    "numberRecorded": 242
+  },
+  {
+    "id": 1192,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1193,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7645157850998916,
+    "numberGenerated": 240,
+    "numberRecorded": 186
+  },
+  {
+    "id": 1194,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 477,
+    "numberRecorded": 477
+  },
+  {
+    "id": 1195,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8443951776201885,
+    "numberGenerated": 120,
+    "numberRecorded": 101
+  },
+  {
+    "id": 1196,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1197,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.1998144807120867,
+    "numberGenerated": 121,
+    "numberRecorded": 24
+  },
+  {
+    "id": 1198,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.27056441001158404,
+    "numberGenerated": 121,
+    "numberRecorded": 28
+  },
+  {
+    "id": 1199,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1200,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.3192164958437688,
+    "numberGenerated": 482,
+    "numberRecorded": 153
+  },
+  {
+    "id": 1201,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8457123474122832,
+    "numberGenerated": 482,
+    "numberRecorded": 409
+  },
+  {
+    "id": 1202,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.828221069844739,
+    "numberGenerated": 121,
+    "numberRecorded": 99
+  },
+  {
+    "id": 1203,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5836214680193053,
+    "numberGenerated": 483,
+    "numberRecorded": 289
+  },
+  {
+    "id": 1204,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 481,
+    "numberRecorded": 481
+  },
+  {
+    "id": 1205,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2692569980792849,
+    "numberGenerated": 121,
+    "numberRecorded": 28
+  },
+  {
+    "id": 1206,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5081075132110188,
+    "numberGenerated": 475,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1207,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 479,
+    "numberRecorded": 479
+  },
+  {
+    "id": 1208,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5224651221871252,
+    "numberGenerated": 241,
+    "numberRecorded": 118
+  },
+  {
+    "id": 1209,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7965578427724089,
+    "numberGenerated": 120,
+    "numberRecorded": 99
+  },
+  {
+    "id": 1210,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7529140911377433,
+    "numberGenerated": 120,
+    "numberRecorded": 84
+  },
+  {
+    "id": 1211,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7627376271964357,
+    "numberGenerated": 241,
+    "numberRecorded": 195
+  },
+  {
+    "id": 1212,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 489,
+    "numberRecorded": 489
+  },
+  {
+    "id": 1213,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7710772058665293,
+    "numberGenerated": 243,
+    "numberRecorded": 186
+  },
+  {
+    "id": 1214,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1215,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1216,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5342277938126652,
+    "numberGenerated": 483,
+    "numberRecorded": 252
+  },
+  {
+    "id": 1217,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5762881598648504,
+    "numberGenerated": 122,
+    "numberRecorded": 66
+  },
+  {
+    "id": 1218,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5127081217116771,
+    "numberGenerated": 121,
+    "numberRecorded": 57
+  },
+  {
+    "id": 1219,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.834704394905559,
+    "numberGenerated": 484,
+    "numberRecorded": 429
+  },
+  {
+    "id": 1220,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 243,
+    "numberRecorded": 243
+  },
+  {
+    "id": 1221,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5226735832671885,
+    "numberGenerated": 239,
+    "numberRecorded": 130
+  },
+  {
+    "id": 1222,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1223,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 476,
+    "numberRecorded": 476
+  },
+  {
+    "id": 1224,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8004781597232917,
+    "numberGenerated": 475,
+    "numberRecorded": 378
+  },
+  {
+    "id": 1225,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5270560887819674,
+    "numberGenerated": 241,
+    "numberRecorded": 115
+  },
+  {
+    "id": 1226,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5854883222157311,
+    "numberGenerated": 120,
+    "numberRecorded": 66
+  },
+  {
+    "id": 1227,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.22104807181223407,
+    "numberGenerated": 241,
+    "numberRecorded": 41
+  },
+  {
+    "id": 1228,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8201334375382066,
+    "numberGenerated": 240,
+    "numberRecorded": 199
+  },
+  {
+    "id": 1229,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 238,
+    "numberRecorded": 238
+  },
+  {
+    "id": 1230,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 484,
+    "numberRecorded": 484
+  },
+  {
+    "id": 1231,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.3421564091739476,
+    "numberGenerated": 240,
+    "numberRecorded": 69
+  },
+  {
+    "id": 1232,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8019908155098044,
+    "numberGenerated": 242,
+    "numberRecorded": 201
+  },
+  {
+    "id": 1233,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7865973320697711,
+    "numberGenerated": 244,
+    "numberRecorded": 200
+  },
+  {
+    "id": 1234,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 480,
+    "numberRecorded": 480
+  },
+  {
+    "id": 1235,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5293292667778988,
+    "numberGenerated": 241,
+    "numberRecorded": 115
+  },
+  {
+    "id": 1236,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7585242124716812,
+    "numberGenerated": 489,
+    "numberRecorded": 366
+  },
+  {
+    "id": 1237,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1238,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.29504555023440826,
+    "numberGenerated": 486,
+    "numberRecorded": 135
+  },
+  {
+    "id": 1239,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.33703345286568026,
+    "numberGenerated": 121,
+    "numberRecorded": 37
+  },
+  {
+    "id": 1240,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.822039283570322,
+    "numberGenerated": 480,
+    "numberRecorded": 378
+  },
+  {
+    "id": 1241,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.3457434818421759,
+    "numberGenerated": 473,
+    "numberRecorded": 144
+  },
+  {
+    "id": 1242,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 481,
+    "numberRecorded": 481
+  },
+  {
+    "id": 1243,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8084186762903546,
+    "numberGenerated": 471,
+    "numberRecorded": 388
+  },
+  {
+    "id": 1244,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.23615844216723586,
+    "numberGenerated": 241,
+    "numberRecorded": 65
+  },
+  {
+    "id": 1245,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8238595710964219,
+    "numberGenerated": 120,
+    "numberRecorded": 100
+  },
+  {
+    "id": 1246,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8282235872092467,
+    "numberGenerated": 121,
+    "numberRecorded": 94
+  },
+  {
+    "id": 1247,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 491,
+    "numberRecorded": 491
+  },
+  {
+    "id": 1248,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2692754947137911,
+    "numberGenerated": 121,
+    "numberRecorded": 36
+  },
+  {
+    "id": 1249,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 238,
+    "numberRecorded": 238
+  },
+  {
+    "id": 1250,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8203775040449962,
+    "numberGenerated": 241,
+    "numberRecorded": 188
+  },
+  {
+    "id": 1251,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 238,
+    "numberRecorded": 238
+  },
+  {
+    "id": 1252,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8308743169967064,
+    "numberGenerated": 241,
+    "numberRecorded": 198
+  },
+  {
+    "id": 1253,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8192030497685762,
+    "numberGenerated": 472,
+    "numberRecorded": 395
+  },
+  {
+    "id": 1254,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1255,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 489,
+    "numberRecorded": 489
+  },
+  {
+    "id": 1256,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1257,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 472,
+    "numberRecorded": 472
+  },
+  {
+    "id": 1258,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 474,
+    "numberRecorded": 474
+  },
+  {
+    "id": 1259,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8446904872690688,
+    "numberGenerated": 121,
+    "numberRecorded": 105
+  },
+  {
+    "id": 1260,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.763960434402767,
+    "numberGenerated": 483,
+    "numberRecorded": 354
+  },
+  {
+    "id": 1261,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.27033420486169046,
+    "numberGenerated": 238,
+    "numberRecorded": 70
+  },
+  {
+    "id": 1262,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2313891050030598,
+    "numberGenerated": 481,
+    "numberRecorded": 100
+  },
+  {
+    "id": 1263,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.17983354812588934,
+    "numberGenerated": 479,
+    "numberRecorded": 89
+  },
+  {
+    "id": 1264,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7945998692294928,
+    "numberGenerated": 121,
+    "numberRecorded": 89
+  },
+  {
+    "id": 1265,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 244,
+    "numberRecorded": 244
+  },
+  {
+    "id": 1266,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1267,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1268,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1269,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 236,
+    "numberRecorded": 236
+  },
+  {
+    "id": 1270,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 486,
+    "numberRecorded": 486
+  },
+  {
+    "id": 1271,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1272,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1273,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1274,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.3402565555299172,
+    "numberGenerated": 120,
+    "numberRecorded": 46
+  },
+  {
+    "id": 1275,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5088682575753002,
+    "numberGenerated": 121,
+    "numberRecorded": 63
+  },
+  {
+    "id": 1276,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1277,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7651290867681579,
+    "numberGenerated": 488,
+    "numberRecorded": 354
+  },
+  {
+    "id": 1278,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5889860926622246,
+    "numberGenerated": 244,
+    "numberRecorded": 146
+  },
+  {
+    "id": 1279,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1280,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.838447349271087,
+    "numberGenerated": 241,
+    "numberRecorded": 199
+  },
+  {
+    "id": 1281,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1282,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1283,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1284,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5750797835565515,
+    "numberGenerated": 122,
+    "numberRecorded": 67
+  },
+  {
+    "id": 1285,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8081422980817939,
+    "numberGenerated": 242,
+    "numberRecorded": 192
+  },
+  {
+    "id": 1286,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 480,
+    "numberRecorded": 480
+  },
+  {
+    "id": 1287,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7580811638166619,
+    "numberGenerated": 240,
+    "numberRecorded": 187
+  },
+  {
+    "id": 1288,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8258892037224143,
+    "numberGenerated": 477,
+    "numberRecorded": 404
+  },
+  {
+    "id": 1289,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.16176806539301927,
+    "numberGenerated": 239,
+    "numberRecorded": 32
+  },
+  {
+    "id": 1290,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 484,
+    "numberRecorded": 484
+  },
+  {
+    "id": 1291,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 242,
+    "numberRecorded": 242
+  },
+  {
+    "id": 1292,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7706722373977056,
+    "numberGenerated": 120,
+    "numberRecorded": 95
+  },
+  {
+    "id": 1293,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.17700586822193815,
+    "numberGenerated": 241,
+    "numberRecorded": 43
+  },
+  {
+    "id": 1294,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7757749615010614,
+    "numberGenerated": 479,
+    "numberRecorded": 359
+  },
+  {
+    "id": 1295,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1296,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.3341224704037791,
+    "numberGenerated": 479,
+    "numberRecorded": 161
+  },
+  {
+    "id": 1297,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5903708000265231,
+    "numberGenerated": 241,
+    "numberRecorded": 143
+  },
+  {
+    "id": 1298,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2607124254394856,
+    "numberGenerated": 120,
+    "numberRecorded": 33
+  },
+  {
+    "id": 1299,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 469,
+    "numberRecorded": 469
+  },
+  {
+    "id": 1300,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 481,
+    "numberRecorded": 481
+  },
+  {
+    "id": 1301,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8426593917398766,
+    "numberGenerated": 485,
+    "numberRecorded": 411
+  },
+  {
+    "id": 1302,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 484,
+    "numberRecorded": 484
+  },
+  {
+    "id": 1303,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2333173331973457,
+    "numberGenerated": 483,
+    "numberRecorded": 117
+  },
+  {
+    "id": 1304,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1305,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2001402757712831,
+    "numberGenerated": 122,
+    "numberRecorded": 26
+  },
+  {
+    "id": 1306,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 482,
+    "numberRecorded": 482
+  },
+  {
+    "id": 1307,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5886982575839317,
+    "numberGenerated": 121,
+    "numberRecorded": 77
+  },
+  {
+    "id": 1308,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1309,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1310,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1311,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1312,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5253606758459359,
+    "numberGenerated": 121,
+    "numberRecorded": 65
+  },
+  {
+    "id": 1313,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 476,
+    "numberRecorded": 476
+  },
+  {
+    "id": 1314,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 483,
+    "numberRecorded": 483
+  },
+  {
+    "id": 1315,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.24857356379741205,
+    "numberGenerated": 121,
+    "numberRecorded": 30
+  },
+  {
+    "id": 1316,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.19216900403744322,
+    "numberGenerated": 243,
+    "numberRecorded": 41
+  },
+  {
+    "id": 1317,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2946119719192226,
+    "numberGenerated": 238,
+    "numberRecorded": 62
+  },
+  {
+    "id": 1318,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8482910596636772,
+    "numberGenerated": 122,
+    "numberRecorded": 108
+  },
+  {
+    "id": 1319,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.815043544882954,
+    "numberGenerated": 487,
+    "numberRecorded": 403
+  },
+  {
+    "id": 1320,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5979482664287985,
+    "numberGenerated": 481,
+    "numberRecorded": 277
+  },
+  {
+    "id": 1321,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8073605922859556,
+    "numberGenerated": 239,
+    "numberRecorded": 197
+  },
+  {
+    "id": 1322,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1323,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8013630463791448,
+    "numberGenerated": 486,
+    "numberRecorded": 403
+  },
+  {
+    "id": 1324,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8214127773176371,
+    "numberGenerated": 483,
+    "numberRecorded": 396
+  },
+  {
+    "id": 1325,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7946262950525963,
+    "numberGenerated": 243,
+    "numberRecorded": 194
+  },
+  {
+    "id": 1326,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8461246637701649,
+    "numberGenerated": 120,
+    "numberRecorded": 103
+  },
+  {
+    "id": 1327,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7538810634146806,
+    "numberGenerated": 120,
+    "numberRecorded": 85
+  },
+  {
+    "id": 1328,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.330996579182975,
+    "numberGenerated": 241,
+    "numberRecorded": 73
+  },
+  {
+    "id": 1329,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.17294018457910287,
+    "numberGenerated": 477,
+    "numberRecorded": 72
+  },
+  {
+    "id": 1330,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 483,
+    "numberRecorded": 483
+  },
+  {
+    "id": 1331,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.19726060969854203,
+    "numberGenerated": 484,
+    "numberRecorded": 96
+  },
+  {
+    "id": 1332,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5210454474919521,
+    "numberGenerated": 122,
+    "numberRecorded": 64
+  },
+  {
+    "id": 1333,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5480595756013252,
+    "numberGenerated": 120,
+    "numberRecorded": 63
+  },
+  {
+    "id": 1334,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7702350988689655,
+    "numberGenerated": 474,
+    "numberRecorded": 359
+  },
+  {
+    "id": 1335,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.18137407235248687,
+    "numberGenerated": 121,
+    "numberRecorded": 22
+  },
+  {
+    "id": 1336,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5019145992179403,
+    "numberGenerated": 483,
+    "numberRecorded": 244
+  },
+  {
+    "id": 1337,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 243,
+    "numberRecorded": 243
+  },
+  {
+    "id": 1338,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5971291047188818,
+    "numberGenerated": 120,
+    "numberRecorded": 70
+  },
+  {
+    "id": 1339,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.15928897308205056,
+    "numberGenerated": 477,
+    "numberRecorded": 83
+  },
+  {
+    "id": 1340,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 484,
+    "numberRecorded": 484
+  },
+  {
+    "id": 1341,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.3106441926560831,
+    "numberGenerated": 241,
+    "numberRecorded": 71
+  },
+  {
+    "id": 1342,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 486,
+    "numberRecorded": 486
+  },
+  {
+    "id": 1343,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1344,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1345,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.324368634143666,
+    "numberGenerated": 240,
+    "numberRecorded": 78
+  },
+  {
+    "id": 1346,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 238,
+    "numberRecorded": 238
+  },
+  {
+    "id": 1347,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1348,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7961665410859748,
+    "numberGenerated": 241,
+    "numberRecorded": 198
+  },
+  {
+    "id": 1349,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8410746646214224,
+    "numberGenerated": 121,
+    "numberRecorded": 102
+  },
+  {
+    "id": 1350,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8055320930989179,
+    "numberGenerated": 242,
+    "numberRecorded": 182
+  },
+  {
+    "id": 1351,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8258215643997096,
+    "numberGenerated": 479,
+    "numberRecorded": 377
+  },
+  {
+    "id": 1352,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.523470974958537,
+    "numberGenerated": 489,
+    "numberRecorded": 258
+  },
+  {
+    "id": 1353,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7792921473275646,
+    "numberGenerated": 120,
+    "numberRecorded": 86
+  },
+  {
+    "id": 1354,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5221195552099462,
+    "numberGenerated": 121,
+    "numberRecorded": 62
+  },
+  {
+    "id": 1355,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5384312919835208,
+    "numberGenerated": 121,
+    "numberRecorded": 65
+  },
+  {
+    "id": 1356,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8222218938741565,
+    "numberGenerated": 240,
+    "numberRecorded": 196
+  },
+  {
+    "id": 1357,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 477,
+    "numberRecorded": 477
+  },
+  {
+    "id": 1358,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 242,
+    "numberRecorded": 242
+  },
+  {
+    "id": 1359,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7758948623302918,
+    "numberGenerated": 241,
+    "numberRecorded": 195
+  },
+  {
+    "id": 1360,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 238,
+    "numberRecorded": 238
+  },
+  {
+    "id": 1361,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5591350173367898,
+    "numberGenerated": 122,
+    "numberRecorded": 63
+  },
+  {
+    "id": 1362,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5997149435191579,
+    "numberGenerated": 477,
+    "numberRecorded": 291
+  },
+  {
+    "id": 1363,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 479,
+    "numberRecorded": 479
+  },
+  {
+    "id": 1364,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8176374008518645,
+    "numberGenerated": 488,
+    "numberRecorded": 389
+  },
+  {
+    "id": 1365,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5872027370812103,
+    "numberGenerated": 122,
+    "numberRecorded": 70
+  },
+  {
+    "id": 1366,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7723614548956714,
+    "numberGenerated": 490,
+    "numberRecorded": 381
+  },
+  {
+    "id": 1367,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1368,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5003285649759325,
+    "numberGenerated": 121,
+    "numberRecorded": 65
+  },
+  {
+    "id": 1369,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1370,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7610842243266278,
+    "numberGenerated": 239,
+    "numberRecorded": 180
+  },
+  {
+    "id": 1371,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8028653706822318,
+    "numberGenerated": 121,
+    "numberRecorded": 91
+  },
+  {
+    "id": 1372,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1373,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 242,
+    "numberRecorded": 242
+  },
+  {
+    "id": 1374,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7686868085427034,
+    "numberGenerated": 121,
+    "numberRecorded": 95
+  },
+  {
+    "id": 1375,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7927412598084528,
+    "numberGenerated": 237,
+    "numberRecorded": 186
+  },
+  {
+    "id": 1376,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1377,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.19580673653768743,
+    "numberGenerated": 120,
+    "numberRecorded": 24
+  },
+  {
+    "id": 1378,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1379,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7711962871260912,
+    "numberGenerated": 475,
+    "numberRecorded": 358
+  },
+  {
+    "id": 1380,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 122,
+    "numberRecorded": 122
+  },
+  {
+    "id": 1381,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.29873723331476104,
+    "numberGenerated": 120,
+    "numberRecorded": 45
+  },
+  {
+    "id": 1382,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.20972530708953327,
+    "numberGenerated": 478,
+    "numberRecorded": 103
+  },
+  {
+    "id": 1383,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 475,
+    "numberRecorded": 475
+  },
+  {
+    "id": 1384,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 479,
+    "numberRecorded": 479
+  },
+  {
+    "id": 1385,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 486,
+    "numberRecorded": 486
+  },
+  {
+    "id": 1386,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1387,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 483,
+    "numberRecorded": 483
+  },
+  {
+    "id": 1388,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 236,
+    "numberRecorded": 236
+  },
+  {
+    "id": 1389,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.23333459217935504,
+    "numberGenerated": 478,
+    "numberRecorded": 110
+  },
+  {
+    "id": 1390,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.830872920965363,
+    "numberGenerated": 477,
+    "numberRecorded": 392
+  },
+  {
+    "id": 1391,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5958764345853609,
+    "numberGenerated": 239,
+    "numberRecorded": 151
+  },
+  {
+    "id": 1392,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5955490724227064,
+    "numberGenerated": 120,
+    "numberRecorded": 73
+  },
+  {
+    "id": 1393,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5816975813262918,
+    "numberGenerated": 481,
+    "numberRecorded": 291
+  },
+  {
+    "id": 1394,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7760841263966949,
+    "numberGenerated": 242,
+    "numberRecorded": 190
+  },
+  {
+    "id": 1395,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7794281341904454,
+    "numberGenerated": 475,
+    "numberRecorded": 360
+  },
+  {
+    "id": 1396,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5506290536298535,
+    "numberGenerated": 478,
+    "numberRecorded": 256
+  },
+  {
+    "id": 1397,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.26657438318960625,
+    "numberGenerated": 121,
+    "numberRecorded": 35
+  },
+  {
+    "id": 1398,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 479,
+    "numberRecorded": 479
+  },
+  {
+    "id": 1399,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5118256544598968,
+    "numberGenerated": 238,
+    "numberRecorded": 115
+  },
+  {
+    "id": 1400,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 480,
+    "numberRecorded": 480
+  },
+  {
+    "id": 1401,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5399261646688605,
+    "numberGenerated": 243,
+    "numberRecorded": 136
+  },
+  {
+    "id": 1402,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8116406587964176,
+    "numberGenerated": 481,
+    "numberRecorded": 373
+  },
+  {
+    "id": 1403,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 479,
+    "numberRecorded": 479
+  },
+  {
+    "id": 1404,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.21495005823504643,
+    "numberGenerated": 240,
+    "numberRecorded": 56
+  },
+  {
+    "id": 1405,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8283194941193067,
+    "numberGenerated": 120,
+    "numberRecorded": 98
+  },
+  {
+    "id": 1406,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5021652601418174,
+    "numberGenerated": 120,
+    "numberRecorded": 57
+  },
+  {
+    "id": 1407,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8420653647210194,
+    "numberGenerated": 237,
+    "numberRecorded": 186
+  },
+  {
+    "id": 1408,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7685737411413363,
+    "numberGenerated": 490,
+    "numberRecorded": 393
+  },
+  {
+    "id": 1409,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8128218058087521,
+    "numberGenerated": 121,
+    "numberRecorded": 96
+  },
+  {
+    "id": 1410,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.1868368412639521,
+    "numberGenerated": 120,
+    "numberRecorded": 16
+  },
+  {
+    "id": 1411,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5375977865887643,
+    "numberGenerated": 239,
+    "numberRecorded": 137
+  },
+  {
+    "id": 1412,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.26136030398444676,
+    "numberGenerated": 473,
+    "numberRecorded": 113
+  },
+  {
+    "id": 1413,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8394350688845403,
+    "numberGenerated": 239,
+    "numberRecorded": 201
+  },
+  {
+    "id": 1414,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2848506722997435,
+    "numberGenerated": 240,
+    "numberRecorded": 68
+  },
+  {
+    "id": 1415,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.31856366016088117,
+    "numberGenerated": 243,
+    "numberRecorded": 94
+  },
+  {
+    "id": 1416,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7724272329753812,
+    "numberGenerated": 120,
+    "numberRecorded": 93
+  },
+  {
+    "id": 1417,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 242,
+    "numberRecorded": 242
+  },
+  {
+    "id": 1418,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1419,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1420,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1421,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.1513323929843196,
+    "numberGenerated": 482,
+    "numberRecorded": 76
+  },
+  {
+    "id": 1422,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1423,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1424,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1425,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1426,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2169158928266976,
+    "numberGenerated": 483,
+    "numberRecorded": 119
+  },
+  {
+    "id": 1427,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8165605472465757,
+    "numberGenerated": 121,
+    "numberRecorded": 104
+  },
+  {
+    "id": 1428,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 483,
+    "numberRecorded": 483
+  },
+  {
+    "id": 1429,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 472,
+    "numberRecorded": 472
+  },
+  {
+    "id": 1430,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5478224101930205,
+    "numberGenerated": 120,
+    "numberRecorded": 60
+  },
+  {
+    "id": 1431,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 487,
+    "numberRecorded": 487
+  },
+  {
+    "id": 1432,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8385961746734134,
+    "numberGenerated": 119,
+    "numberRecorded": 97
+  },
+  {
+    "id": 1433,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2500487582460864,
+    "numberGenerated": 479,
+    "numberRecorded": 115
+  },
+  {
+    "id": 1434,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.25378795320706005,
+    "numberGenerated": 478,
+    "numberRecorded": 130
+  },
+  {
+    "id": 1435,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.3199636522266578,
+    "numberGenerated": 475,
+    "numberRecorded": 161
+  },
+  {
+    "id": 1436,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.19909455195527642,
+    "numberGenerated": 121,
+    "numberRecorded": 20
+  },
+  {
+    "id": 1437,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1438,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7947637030465653,
+    "numberGenerated": 238,
+    "numberRecorded": 189
+  },
+  {
+    "id": 1439,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8474122181234912,
+    "numberGenerated": 240,
+    "numberRecorded": 215
+  },
+  {
+    "id": 1440,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.18487462650517322,
+    "numberGenerated": 120,
+    "numberRecorded": 22
+  },
+  {
+    "id": 1441,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8227750468901018,
+    "numberGenerated": 479,
+    "numberRecorded": 389
+  },
+  {
+    "id": 1442,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 479,
+    "numberRecorded": 479
+  },
+  {
+    "id": 1443,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8310029411007811,
+    "numberGenerated": 242,
+    "numberRecorded": 199
+  },
+  {
+    "id": 1444,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5144338535282039,
+    "numberGenerated": 121,
+    "numberRecorded": 56
+  },
+  {
+    "id": 1445,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1446,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 481,
+    "numberRecorded": 481
+  },
+  {
+    "id": 1447,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 242,
+    "numberRecorded": 242
+  },
+  {
+    "id": 1448,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1449,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7645210397127338,
+    "numberGenerated": 476,
+    "numberRecorded": 363
+  },
+  {
+    "id": 1450,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7607879709214134,
+    "numberGenerated": 240,
+    "numberRecorded": 174
+  },
+  {
+    "id": 1451,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.80319769438523,
+    "numberGenerated": 120,
+    "numberRecorded": 104
+  },
+  {
+    "id": 1452,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5412091272049188,
+    "numberGenerated": 237,
+    "numberRecorded": 126
+  },
+  {
+    "id": 1453,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.81233069526169,
+    "numberGenerated": 239,
+    "numberRecorded": 196
+  },
+  {
+    "id": 1454,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.15637212456085303,
+    "numberGenerated": 120,
+    "numberRecorded": 14
+  },
+  {
+    "id": 1455,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5486807875196522,
+    "numberGenerated": 475,
+    "numberRecorded": 251
+  },
+  {
+    "id": 1456,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5899812263766919,
+    "numberGenerated": 485,
+    "numberRecorded": 288
+  },
+  {
+    "id": 1457,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5679702229561718,
+    "numberGenerated": 477,
+    "numberRecorded": 294
+  },
+  {
+    "id": 1458,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7884046041955628,
+    "numberGenerated": 120,
+    "numberRecorded": 93
+  },
+  {
+    "id": 1459,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.25118173103494645,
+    "numberGenerated": 480,
+    "numberRecorded": 128
+  },
+  {
+    "id": 1460,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1461,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 482,
+    "numberRecorded": 482
+  },
+  {
+    "id": 1462,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5558636145947896,
+    "numberGenerated": 121,
+    "numberRecorded": 65
+  },
+  {
+    "id": 1463,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.17343691312101578,
+    "numberGenerated": 483,
+    "numberRecorded": 92
+  },
+  {
+    "id": 1464,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.545590208357883,
+    "numberGenerated": 485,
+    "numberRecorded": 280
+  },
+  {
+    "id": 1465,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.19769778330562732,
+    "numberGenerated": 491,
+    "numberRecorded": 111
+  },
+  {
+    "id": 1466,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.19273522376233915,
+    "numberGenerated": 489,
+    "numberRecorded": 85
+  },
+  {
+    "id": 1467,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1468,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8163384940330239,
+    "numberGenerated": 120,
+    "numberRecorded": 92
+  },
+  {
+    "id": 1469,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 485,
+    "numberRecorded": 485
+  },
+  {
+    "id": 1470,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8298198458558659,
+    "numberGenerated": 120,
+    "numberRecorded": 99
+  },
+  {
+    "id": 1471,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5620199720646363,
+    "numberGenerated": 120,
+    "numberRecorded": 59
+  },
+  {
+    "id": 1472,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5053965025705823,
+    "numberGenerated": 480,
+    "numberRecorded": 232
+  },
+  {
+    "id": 1473,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5456436413270991,
+    "numberGenerated": 120,
+    "numberRecorded": 71
+  },
+  {
+    "id": 1474,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1475,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8148959997712208,
+    "numberGenerated": 120,
+    "numberRecorded": 101
+  },
+  {
+    "id": 1476,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.24618987830508116,
+    "numberGenerated": 241,
+    "numberRecorded": 55
+  },
+  {
+    "id": 1477,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1478,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5168442895330474,
+    "numberGenerated": 489,
+    "numberRecorded": 251
+  },
+  {
+    "id": 1479,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.767639631839775,
+    "numberGenerated": 242,
+    "numberRecorded": 183
+  },
+  {
+    "id": 1480,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 472,
+    "numberRecorded": 472
+  },
+  {
+    "id": 1481,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5234829807525044,
+    "numberGenerated": 243,
+    "numberRecorded": 130
+  },
+  {
+    "id": 1482,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.20405164139450252,
+    "numberGenerated": 120,
+    "numberRecorded": 43
+  },
+  {
+    "id": 1483,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1484,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7508011231906874,
+    "numberGenerated": 120,
+    "numberRecorded": 95
+  },
+  {
+    "id": 1485,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7749317930402552,
+    "numberGenerated": 120,
+    "numberRecorded": 93
+  },
+  {
+    "id": 1486,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7802852645489309,
+    "numberGenerated": 484,
+    "numberRecorded": 376
+  },
+  {
+    "id": 1487,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.847027855342785,
+    "numberGenerated": 241,
+    "numberRecorded": 192
+  },
+  {
+    "id": 1488,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7707081467837659,
+    "numberGenerated": 240,
+    "numberRecorded": 189
+  },
+  {
+    "id": 1489,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 481,
+    "numberRecorded": 481
+  },
+  {
+    "id": 1490,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5884614814931204,
+    "numberGenerated": 242,
+    "numberRecorded": 141
+  },
+  {
+    "id": 1491,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8451430446080326,
+    "numberGenerated": 484,
+    "numberRecorded": 406
+  },
+  {
+    "id": 1492,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.27718976867585143,
+    "numberGenerated": 120,
+    "numberRecorded": 27
+  },
+  {
+    "id": 1493,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1494,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8222906538170066,
+    "numberGenerated": 476,
+    "numberRecorded": 382
+  },
+  {
+    "id": 1495,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 119,
+    "numberRecorded": 119
+  },
+  {
+    "id": 1496,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8462491123609709,
+    "numberGenerated": 490,
+    "numberRecorded": 410
+  },
+  {
+    "id": 1497,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.21944260601649374,
+    "numberGenerated": 120,
+    "numberRecorded": 27
+  },
+  {
+    "id": 1498,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 480,
+    "numberRecorded": 480
+  },
+  {
+    "id": 1499,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1500,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.3394806398394388,
+    "numberGenerated": 120,
+    "numberRecorded": 51
+  },
+  {
+    "id": 1501,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5970369043203125,
+    "numberGenerated": 120,
+    "numberRecorded": 81
+  },
+  {
+    "id": 1502,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1503,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 119,
+    "numberRecorded": 119
+  },
+  {
+    "id": 1504,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1505,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5919281313246514,
+    "numberGenerated": 120,
+    "numberRecorded": 68
+  },
+  {
+    "id": 1506,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.16897681652301655,
+    "numberGenerated": 120,
+    "numberRecorded": 23
+  },
+  {
+    "id": 1507,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 481,
+    "numberRecorded": 481
+  },
+  {
+    "id": 1508,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 242,
+    "numberRecorded": 242
+  },
+  {
+    "id": 1509,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5008414707941601,
+    "numberGenerated": 120,
+    "numberRecorded": 53
+  },
+  {
+    "id": 1510,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 238,
+    "numberRecorded": 238
+  },
+  {
+    "id": 1511,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1512,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 476,
+    "numberRecorded": 476
+  },
+  {
+    "id": 1513,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1514,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5495092263971023,
+    "numberGenerated": 481,
+    "numberRecorded": 257
+  },
+  {
+    "id": 1515,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1516,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 471,
+    "numberRecorded": 471
+  },
+  {
+    "id": 1517,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1518,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.3216593681080962,
+    "numberGenerated": 242,
+    "numberRecorded": 85
+  },
+  {
+    "id": 1519,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 119,
+    "numberRecorded": 119
+  },
+  {
+    "id": 1520,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.1771051236766826,
+    "numberGenerated": 483,
+    "numberRecorded": 99
+  },
+  {
+    "id": 1521,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5908443652180622,
+    "numberGenerated": 121,
+    "numberRecorded": 72
+  },
+  {
+    "id": 1522,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.1987124803050175,
+    "numberGenerated": 240,
+    "numberRecorded": 49
+  },
+  {
+    "id": 1523,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7620902183159748,
+    "numberGenerated": 120,
+    "numberRecorded": 95
+  },
+  {
+    "id": 1524,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1525,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1526,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8148740067343215,
+    "numberGenerated": 120,
+    "numberRecorded": 93
+  },
+  {
+    "id": 1527,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.21948530221388823,
+    "numberGenerated": 478,
+    "numberRecorded": 100
+  },
+  {
+    "id": 1528,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7547331519909423,
+    "numberGenerated": 121,
+    "numberRecorded": 90
+  },
+  {
+    "id": 1529,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7848994407149026,
+    "numberGenerated": 243,
+    "numberRecorded": 199
+  },
+  {
+    "id": 1530,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 489,
+    "numberRecorded": 489
+  },
+  {
+    "id": 1531,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 475,
+    "numberRecorded": 475
+  },
+  {
+    "id": 1532,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1533,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 122,
+    "numberRecorded": 122
+  },
+  {
+    "id": 1534,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 245,
+    "numberRecorded": 245
+  },
+  {
+    "id": 1535,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.29575509254719606,
+    "numberGenerated": 120,
+    "numberRecorded": 44
+  },
+  {
+    "id": 1536,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2511090928148908,
+    "numberGenerated": 242,
+    "numberRecorded": 69
+  },
+  {
+    "id": 1537,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 478,
+    "numberRecorded": 478
+  },
+  {
+    "id": 1538,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1539,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 242,
+    "numberRecorded": 242
+  },
+  {
+    "id": 1540,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1541,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 486,
+    "numberRecorded": 486
+  },
+  {
+    "id": 1542,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.756065201552192,
+    "numberGenerated": 241,
+    "numberRecorded": 182
+  },
+  {
+    "id": 1543,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7534825590339723,
+    "numberGenerated": 242,
+    "numberRecorded": 173
+  },
+  {
+    "id": 1544,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 476,
+    "numberRecorded": 476
+  },
+  {
+    "id": 1545,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.24734695852467584,
+    "numberGenerated": 239,
+    "numberRecorded": 53
+  },
+  {
+    "id": 1546,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1547,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 237,
+    "numberRecorded": 237
+  },
+  {
+    "id": 1548,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.30377790520272474,
+    "numberGenerated": 241,
+    "numberRecorded": 65
+  },
+  {
+    "id": 1549,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1550,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 474,
+    "numberRecorded": 474
+  },
+  {
+    "id": 1551,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.20117867193038474,
+    "numberGenerated": 120,
+    "numberRecorded": 29
+  },
+  {
+    "id": 1552,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1553,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1554,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7763541018292992,
+    "numberGenerated": 242,
+    "numberRecorded": 183
+  },
+  {
+    "id": 1555,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 481,
+    "numberRecorded": 481
+  },
+  {
+    "id": 1556,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7552167769218305,
+    "numberGenerated": 479,
+    "numberRecorded": 359
+  },
+  {
+    "id": 1557,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1558,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8217793260754976,
+    "numberGenerated": 481,
+    "numberRecorded": 376
+  },
+  {
+    "id": 1559,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7602625125466752,
+    "numberGenerated": 121,
+    "numberRecorded": 86
+  },
+  {
+    "id": 1560,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5527289537968118,
+    "numberGenerated": 241,
+    "numberRecorded": 141
+  },
+  {
+    "id": 1561,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 490,
+    "numberRecorded": 490
+  },
+  {
+    "id": 1562,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.22373136605275795,
+    "numberGenerated": 486,
+    "numberRecorded": 112
+  },
+  {
+    "id": 1563,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7596934002076956,
+    "numberGenerated": 489,
+    "numberRecorded": 371
+  },
+  {
+    "id": 1564,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1565,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7711973332593597,
+    "numberGenerated": 239,
+    "numberRecorded": 192
+  },
+  {
+    "id": 1566,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.3383624267033172,
+    "numberGenerated": 477,
+    "numberRecorded": 167
+  },
+  {
+    "id": 1567,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.22118600006600708,
+    "numberGenerated": 120,
+    "numberRecorded": 26
+  },
+  {
+    "id": 1568,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1569,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5992277320171994,
+    "numberGenerated": 237,
+    "numberRecorded": 146
+  },
+  {
+    "id": 1570,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8247466775031695,
+    "numberGenerated": 121,
+    "numberRecorded": 100
+  },
+  {
+    "id": 1571,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1572,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1573,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8045543877942352,
+    "numberGenerated": 241,
+    "numberRecorded": 196
+  },
+  {
+    "id": 1574,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7660996783383127,
+    "numberGenerated": 120,
+    "numberRecorded": 83
+  },
+  {
+    "id": 1575,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.24512784765611623,
+    "numberGenerated": 484,
+    "numberRecorded": 112
+  },
+  {
+    "id": 1576,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1577,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5150055110087738,
+    "numberGenerated": 477,
+    "numberRecorded": 254
+  },
+  {
+    "id": 1578,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8390641231421657,
+    "numberGenerated": 121,
+    "numberRecorded": 104
+  },
+  {
+    "id": 1579,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8184609110881,
+    "numberGenerated": 241,
+    "numberRecorded": 197
+  },
+  {
+    "id": 1580,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 244,
+    "numberRecorded": 244
+  },
+  {
+    "id": 1581,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1582,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.18098976553086604,
+    "numberGenerated": 475,
+    "numberRecorded": 90
+  },
+  {
+    "id": 1583,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.508028622288526,
+    "numberGenerated": 240,
+    "numberRecorded": 116
+  },
+  {
+    "id": 1584,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8449773223399534,
+    "numberGenerated": 120,
+    "numberRecorded": 103
+  },
+  {
+    "id": 1585,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7869779543921179,
+    "numberGenerated": 482,
+    "numberRecorded": 374
+  },
+  {
+    "id": 1586,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8017169793530878,
+    "numberGenerated": 244,
+    "numberRecorded": 197
+  },
+  {
+    "id": 1587,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5365262856919041,
+    "numberGenerated": 120,
+    "numberRecorded": 63
+  },
+  {
+    "id": 1588,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7525458801766122,
+    "numberGenerated": 119,
+    "numberRecorded": 87
+  },
+  {
+    "id": 1589,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5168751244376545,
+    "numberGenerated": 468,
+    "numberRecorded": 249
+  },
+  {
+    "id": 1590,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8323991046002414,
+    "numberGenerated": 242,
+    "numberRecorded": 208
+  },
+  {
+    "id": 1591,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 481,
+    "numberRecorded": 481
+  },
+  {
+    "id": 1592,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.24622442043614487,
+    "numberGenerated": 474,
+    "numberRecorded": 122
+  },
+  {
+    "id": 1593,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5475984244457665,
+    "numberGenerated": 121,
+    "numberRecorded": 65
+  },
+  {
+    "id": 1594,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5630169214690736,
+    "numberGenerated": 484,
+    "numberRecorded": 286
+  },
+  {
+    "id": 1595,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1596,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5513108065518938,
+    "numberGenerated": 240,
+    "numberRecorded": 151
+  },
+  {
+    "id": 1597,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.24637136433458304,
+    "numberGenerated": 481,
+    "numberRecorded": 118
+  },
+  {
+    "id": 1598,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2942120460665571,
+    "numberGenerated": 240,
+    "numberRecorded": 56
+  },
+  {
+    "id": 1599,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 474,
+    "numberRecorded": 474
+  },
+  {
+    "id": 1600,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7999313653195991,
+    "numberGenerated": 485,
+    "numberRecorded": 375
+  },
+  {
+    "id": 1601,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.18936440299247875,
+    "numberGenerated": 477,
+    "numberRecorded": 90
+  },
+  {
+    "id": 1602,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 492,
+    "numberRecorded": 492
+  },
+  {
+    "id": 1603,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 485,
+    "numberRecorded": 485
+  },
+  {
+    "id": 1604,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.29752060034244987,
+    "numberGenerated": 242,
+    "numberRecorded": 76
+  },
+  {
+    "id": 1605,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.19958508075507164,
+    "numberGenerated": 481,
+    "numberRecorded": 99
+  },
+  {
+    "id": 1606,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5940954192724155,
+    "numberGenerated": 240,
+    "numberRecorded": 134
+  },
+  {
+    "id": 1607,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.21898909504313974,
+    "numberGenerated": 120,
+    "numberRecorded": 29
+  },
+  {
+    "id": 1608,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7536378989993942,
+    "numberGenerated": 239,
+    "numberRecorded": 179
+  },
+  {
+    "id": 1609,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5731341287248869,
+    "numberGenerated": 241,
+    "numberRecorded": 150
+  },
+  {
+    "id": 1610,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.20023010550818715,
+    "numberGenerated": 121,
+    "numberRecorded": 26
+  },
+  {
+    "id": 1611,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.19282739966289117,
+    "numberGenerated": 120,
+    "numberRecorded": 22
+  },
+  {
+    "id": 1612,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.16698980308563008,
+    "numberGenerated": 239,
+    "numberRecorded": 44
+  },
+  {
+    "id": 1613,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8005816552935916,
+    "numberGenerated": 485,
+    "numberRecorded": 387
+  },
+  {
+    "id": 1614,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 477,
+    "numberRecorded": 477
+  },
+  {
+    "id": 1615,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 237,
+    "numberRecorded": 237
+  },
+  {
+    "id": 1616,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.3330174081050775,
+    "numberGenerated": 240,
+    "numberRecorded": 77
+  },
+  {
+    "id": 1617,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1618,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7526238681210214,
+    "numberGenerated": 245,
+    "numberRecorded": 195
+  },
+  {
+    "id": 1619,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5285378290633943,
+    "numberGenerated": 485,
+    "numberRecorded": 247
+  },
+  {
+    "id": 1620,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 481,
+    "numberRecorded": 481
+  },
+  {
+    "id": 1621,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1622,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5486725928406425,
+    "numberGenerated": 478,
+    "numberRecorded": 271
+  },
+  {
+    "id": 1623,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5766539359947391,
+    "numberGenerated": 476,
+    "numberRecorded": 258
+  },
+  {
+    "id": 1624,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7708211337203413,
+    "numberGenerated": 121,
+    "numberRecorded": 99
+  },
+  {
+    "id": 1625,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7752083988187356,
+    "numberGenerated": 121,
+    "numberRecorded": 92
+  },
+  {
+    "id": 1626,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1627,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1628,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2441429043166772,
+    "numberGenerated": 486,
+    "numberRecorded": 142
+  },
+  {
+    "id": 1629,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.29970253644098466,
+    "numberGenerated": 240,
+    "numberRecorded": 73
+  },
+  {
+    "id": 1630,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.3002884245215786,
+    "numberGenerated": 472,
+    "numberRecorded": 144
+  },
+  {
+    "id": 1631,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8020235246730287,
+    "numberGenerated": 120,
+    "numberRecorded": 103
+  },
+  {
+    "id": 1632,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 473,
+    "numberRecorded": 473
+  },
+  {
+    "id": 1633,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5701341694217976,
+    "numberGenerated": 241,
+    "numberRecorded": 147
+  },
+  {
+    "id": 1634,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.3154180688312743,
+    "numberGenerated": 241,
+    "numberRecorded": 68
+  },
+  {
+    "id": 1635,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.15173933155464692,
+    "numberGenerated": 240,
+    "numberRecorded": 30
+  },
+  {
+    "id": 1636,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8460486584992277,
+    "numberGenerated": 243,
+    "numberRecorded": 206
+  },
+  {
+    "id": 1637,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5004029545825476,
+    "numberGenerated": 120,
+    "numberRecorded": 65
+  },
+  {
+    "id": 1638,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7863428309866303,
+    "numberGenerated": 120,
+    "numberRecorded": 93
+  },
+  {
+    "id": 1639,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.3198625089469302,
+    "numberGenerated": 241,
+    "numberRecorded": 74
+  },
+  {
+    "id": 1640,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5344068803525908,
+    "numberGenerated": 489,
+    "numberRecorded": 262
+  },
+  {
+    "id": 1641,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1642,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2541311053330448,
+    "numberGenerated": 120,
+    "numberRecorded": 27
+  },
+  {
+    "id": 1643,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8177380267000727,
+    "numberGenerated": 121,
+    "numberRecorded": 99
+  },
+  {
+    "id": 1644,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 479,
+    "numberRecorded": 479
+  },
+  {
+    "id": 1645,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7967964102564407,
+    "numberGenerated": 481,
+    "numberRecorded": 384
+  },
+  {
+    "id": 1646,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8175086162449569,
+    "numberGenerated": 121,
+    "numberRecorded": 103
+  },
+  {
+    "id": 1647,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5111561347348986,
+    "numberGenerated": 120,
+    "numberRecorded": 66
+  },
+  {
+    "id": 1648,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.24538951584294016,
+    "numberGenerated": 121,
+    "numberRecorded": 28
+  },
+  {
+    "id": 1649,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 119,
+    "numberRecorded": 119
+  },
+  {
+    "id": 1650,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.782435296203336,
+    "numberGenerated": 243,
+    "numberRecorded": 191
+  },
+  {
+    "id": 1651,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1652,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1653,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5153231883594527,
+    "numberGenerated": 120,
+    "numberRecorded": 68
+  },
+  {
+    "id": 1654,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7603796401859538,
+    "numberGenerated": 241,
+    "numberRecorded": 184
+  },
+  {
+    "id": 1655,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.802756410201724,
+    "numberGenerated": 473,
+    "numberRecorded": 386
+  },
+  {
+    "id": 1656,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8036398458248895,
+    "numberGenerated": 486,
+    "numberRecorded": 380
+  },
+  {
+    "id": 1657,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7680282108560718,
+    "numberGenerated": 121,
+    "numberRecorded": 87
+  },
+  {
+    "id": 1658,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1659,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.21542896390693198,
+    "numberGenerated": 120,
+    "numberRecorded": 25
+  },
+  {
+    "id": 1660,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1661,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5107416400974911,
+    "numberGenerated": 241,
+    "numberRecorded": 132
+  },
+  {
+    "id": 1662,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.23190114213987456,
+    "numberGenerated": 121,
+    "numberRecorded": 34
+  },
+  {
+    "id": 1663,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1664,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2420509940026297,
+    "numberGenerated": 122,
+    "numberRecorded": 28
+  },
+  {
+    "id": 1665,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7708067079569304,
+    "numberGenerated": 122,
+    "numberRecorded": 98
+  },
+  {
+    "id": 1666,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.19811669581615585,
+    "numberGenerated": 240,
+    "numberRecorded": 48
+  },
+  {
+    "id": 1667,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 486,
+    "numberRecorded": 486
+  },
+  {
+    "id": 1668,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5379424309058265,
+    "numberGenerated": 465,
+    "numberRecorded": 245
+  },
+  {
+    "id": 1669,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 487,
+    "numberRecorded": 487
+  },
+  {
+    "id": 1670,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1671,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8187667298026011,
+    "numberGenerated": 120,
+    "numberRecorded": 96
+  },
+  {
+    "id": 1672,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1673,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 478,
+    "numberRecorded": 478
+  },
+  {
+    "id": 1674,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2903264573472345,
+    "numberGenerated": 119,
+    "numberRecorded": 33
+  },
+  {
+    "id": 1675,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 484,
+    "numberRecorded": 484
+  },
+  {
+    "id": 1676,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1677,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5704192697470917,
+    "numberGenerated": 241,
+    "numberRecorded": 125
+  },
+  {
+    "id": 1678,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1679,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1680,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5195249952382541,
+    "numberGenerated": 121,
+    "numberRecorded": 65
+  },
+  {
+    "id": 1681,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1682,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5264757701684903,
+    "numberGenerated": 476,
+    "numberRecorded": 254
+  },
+  {
+    "id": 1683,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7627609284409076,
+    "numberGenerated": 119,
+    "numberRecorded": 97
+  },
+  {
+    "id": 1684,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1685,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.31298690960011377,
+    "numberGenerated": 484,
+    "numberRecorded": 145
+  },
+  {
+    "id": 1686,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 243,
+    "numberRecorded": 243
+  },
+  {
+    "id": 1687,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7570608924990814,
+    "numberGenerated": 474,
+    "numberRecorded": 367
+  },
+  {
+    "id": 1688,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8224858751171834,
+    "numberGenerated": 475,
+    "numberRecorded": 389
+  },
+  {
+    "id": 1689,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 478,
+    "numberRecorded": 478
+  },
+  {
+    "id": 1690,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 479,
+    "numberRecorded": 479
+  },
+  {
+    "id": 1691,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 483,
+    "numberRecorded": 483
+  },
+  {
+    "id": 1692,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 485,
+    "numberRecorded": 485
+  },
+  {
+    "id": 1693,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.23192717056372786,
+    "numberGenerated": 486,
+    "numberRecorded": 97
+  },
+  {
+    "id": 1694,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1695,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1696,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1697,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2954170178609723,
+    "numberGenerated": 122,
+    "numberRecorded": 47
+  },
+  {
+    "id": 1698,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7733326820495998,
+    "numberGenerated": 241,
+    "numberRecorded": 182
+  },
+  {
+    "id": 1699,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.18778746070529406,
+    "numberGenerated": 243,
+    "numberRecorded": 43
+  },
+  {
+    "id": 1700,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1701,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 483,
+    "numberRecorded": 483
+  },
+  {
+    "id": 1702,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 245,
+    "numberRecorded": 245
+  },
+  {
+    "id": 1703,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2021915513385518,
+    "numberGenerated": 238,
+    "numberRecorded": 48
+  },
+  {
+    "id": 1704,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5702362725053421,
+    "numberGenerated": 119,
+    "numberRecorded": 59
+  },
+  {
+    "id": 1705,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 494,
+    "numberRecorded": 494
+  },
+  {
+    "id": 1706,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8233965696279318,
+    "numberGenerated": 241,
+    "numberRecorded": 190
+  },
+  {
+    "id": 1707,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 478,
+    "numberRecorded": 478
+  },
+  {
+    "id": 1708,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1709,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.22769049374224176,
+    "numberGenerated": 487,
+    "numberRecorded": 106
+  },
+  {
+    "id": 1710,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.799569949654875,
+    "numberGenerated": 240,
+    "numberRecorded": 187
+  },
+  {
+    "id": 1711,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5210434539540829,
+    "numberGenerated": 239,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1712,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2480410326639107,
+    "numberGenerated": 120,
+    "numberRecorded": 27
+  },
+  {
+    "id": 1713,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1714,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.24758808050338488,
+    "numberGenerated": 120,
+    "numberRecorded": 34
+  },
+  {
+    "id": 1715,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1716,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1717,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5548229868898938,
+    "numberGenerated": 239,
+    "numberRecorded": 123
+  },
+  {
+    "id": 1718,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5595163127445661,
+    "numberGenerated": 120,
+    "numberRecorded": 69
+  },
+  {
+    "id": 1719,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1720,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7614535475939854,
+    "numberGenerated": 241,
+    "numberRecorded": 182
+  },
+  {
+    "id": 1721,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.34686142364207667,
+    "numberGenerated": 121,
+    "numberRecorded": 37
+  },
+  {
+    "id": 1722,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7915785764814494,
+    "numberGenerated": 239,
+    "numberRecorded": 186
+  },
+  {
+    "id": 1723,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 474,
+    "numberRecorded": 474
+  },
+  {
+    "id": 1724,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.16720153153705578,
+    "numberGenerated": 476,
+    "numberRecorded": 77
+  },
+  {
+    "id": 1725,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1726,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5332295461634349,
+    "numberGenerated": 490,
+    "numberRecorded": 265
+  },
+  {
+    "id": 1727,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1728,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 481,
+    "numberRecorded": 481
+  },
+  {
+    "id": 1729,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7724675391070817,
+    "numberGenerated": 471,
+    "numberRecorded": 353
+  },
+  {
+    "id": 1730,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5825846510103905,
+    "numberGenerated": 119,
+    "numberRecorded": 61
+  },
+  {
+    "id": 1731,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5230797327647406,
+    "numberGenerated": 481,
+    "numberRecorded": 259
+  },
+  {
+    "id": 1732,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5009397105339917,
+    "numberGenerated": 472,
+    "numberRecorded": 254
+  },
+  {
+    "id": 1733,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5789398072750056,
+    "numberGenerated": 121,
+    "numberRecorded": 79
+  },
+  {
+    "id": 1734,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5151310646452861,
+    "numberGenerated": 485,
+    "numberRecorded": 250
+  },
+  {
+    "id": 1735,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.27554189252262135,
+    "numberGenerated": 120,
+    "numberRecorded": 31
+  },
+  {
+    "id": 1736,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2457838324358595,
+    "numberGenerated": 121,
+    "numberRecorded": 25
+  },
+  {
+    "id": 1737,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 238,
+    "numberRecorded": 238
+  },
+  {
+    "id": 1738,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5895476911731335,
+    "numberGenerated": 240,
+    "numberRecorded": 152
+  },
+  {
+    "id": 1739,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1740,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7712966206812495,
+    "numberGenerated": 473,
+    "numberRecorded": 362
+  },
+  {
+    "id": 1741,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5680787405150154,
+    "numberGenerated": 120,
+    "numberRecorded": 64
+  },
+  {
+    "id": 1742,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5376521462852515,
+    "numberGenerated": 121,
+    "numberRecorded": 67
+  },
+  {
+    "id": 1743,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.25721750376145813,
+    "numberGenerated": 242,
+    "numberRecorded": 69
+  },
+  {
+    "id": 1744,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1745,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 486,
+    "numberRecorded": 486
+  },
+  {
+    "id": 1746,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1747,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1748,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7667261900218363,
+    "numberGenerated": 239,
+    "numberRecorded": 171
+  },
+  {
+    "id": 1749,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5271849057377797,
+    "numberGenerated": 120,
+    "numberRecorded": 72
+  },
+  {
+    "id": 1750,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.33638000524500533,
+    "numberGenerated": 481,
+    "numberRecorded": 181
+  },
+  {
+    "id": 1751,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2518885550831577,
+    "numberGenerated": 119,
+    "numberRecorded": 21
+  },
+  {
+    "id": 1752,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5221068206202534,
+    "numberGenerated": 486,
+    "numberRecorded": 258
+  },
+  {
+    "id": 1753,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1754,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.3272688762048719,
+    "numberGenerated": 475,
+    "numberRecorded": 150
+  },
+  {
+    "id": 1755,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7614435404717004,
+    "numberGenerated": 121,
+    "numberRecorded": 93
+  },
+  {
+    "id": 1756,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 473,
+    "numberRecorded": 473
+  },
+  {
+    "id": 1757,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 244,
+    "numberRecorded": 244
+  },
+  {
+    "id": 1758,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1759,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7577887939288211,
+    "numberGenerated": 244,
+    "numberRecorded": 186
+  },
+  {
+    "id": 1760,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8418409543809517,
+    "numberGenerated": 242,
+    "numberRecorded": 209
+  },
+  {
+    "id": 1761,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 487,
+    "numberRecorded": 487
+  },
+  {
+    "id": 1762,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 243,
+    "numberRecorded": 243
+  },
+  {
+    "id": 1763,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5233657406461311,
+    "numberGenerated": 121,
+    "numberRecorded": 55
+  },
+  {
+    "id": 1764,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5410519600452346,
+    "numberGenerated": 481,
+    "numberRecorded": 265
+  },
+  {
+    "id": 1765,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5248847130246574,
+    "numberGenerated": 240,
+    "numberRecorded": 133
+  },
+  {
+    "id": 1766,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1767,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5608457135122985,
+    "numberGenerated": 120,
+    "numberRecorded": 66
+  },
+  {
+    "id": 1768,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1769,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.23086478740442548,
+    "numberGenerated": 484,
+    "numberRecorded": 114
+  },
+  {
+    "id": 1770,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5662084850273815,
+    "numberGenerated": 121,
+    "numberRecorded": 58
+  },
+  {
+    "id": 1771,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5058082220776324,
+    "numberGenerated": 122,
+    "numberRecorded": 59
+  },
+  {
+    "id": 1772,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2506794006640535,
+    "numberGenerated": 479,
+    "numberRecorded": 114
+  },
+  {
+    "id": 1773,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.30063662512503875,
+    "numberGenerated": 121,
+    "numberRecorded": 32
+  },
+  {
+    "id": 1774,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5910789734900247,
+    "numberGenerated": 241,
+    "numberRecorded": 147
+  },
+  {
+    "id": 1775,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8317696928667224,
+    "numberGenerated": 481,
+    "numberRecorded": 413
+  },
+  {
+    "id": 1776,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.30860660711276844,
+    "numberGenerated": 121,
+    "numberRecorded": 29
+  },
+  {
+    "id": 1777,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8243972895976124,
+    "numberGenerated": 481,
+    "numberRecorded": 392
+  },
+  {
+    "id": 1778,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8198844887221137,
+    "numberGenerated": 242,
+    "numberRecorded": 195
+  },
+  {
+    "id": 1779,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 473,
+    "numberRecorded": 473
+  },
+  {
+    "id": 1780,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1781,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 487,
+    "numberRecorded": 487
+  },
+  {
+    "id": 1782,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.1967951957060035,
+    "numberGenerated": 498,
+    "numberRecorded": 82
+  },
+  {
+    "id": 1783,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1784,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.34711933270013623,
+    "numberGenerated": 485,
+    "numberRecorded": 173
+  },
+  {
+    "id": 1785,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5561666560735615,
+    "numberGenerated": 483,
+    "numberRecorded": 266
+  },
+  {
+    "id": 1786,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.529354238283407,
+    "numberGenerated": 484,
+    "numberRecorded": 248
+  },
+  {
+    "id": 1787,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7646509598076834,
+    "numberGenerated": 120,
+    "numberRecorded": 95
+  },
+  {
+    "id": 1788,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2064836237071686,
+    "numberGenerated": 121,
+    "numberRecorded": 20
+  },
+  {
+    "id": 1789,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.19045070106386613,
+    "numberGenerated": 120,
+    "numberRecorded": 26
+  },
+  {
+    "id": 1790,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8348736022916035,
+    "numberGenerated": 479,
+    "numberRecorded": 395
+  },
+  {
+    "id": 1791,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5618596790659008,
+    "numberGenerated": 241,
+    "numberRecorded": 138
+  },
+  {
+    "id": 1792,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8265952604961355,
+    "numberGenerated": 240,
+    "numberRecorded": 196
+  },
+  {
+    "id": 1793,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 244,
+    "numberRecorded": 244
+  },
+  {
+    "id": 1794,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.818817772989884,
+    "numberGenerated": 240,
+    "numberRecorded": 201
+  },
+  {
+    "id": 1795,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.32166772252948933,
+    "numberGenerated": 121,
+    "numberRecorded": 38
+  },
+  {
+    "id": 1796,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7757335572036609,
+    "numberGenerated": 121,
+    "numberRecorded": 88
+  },
+  {
+    "id": 1797,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7524272014177434,
+    "numberGenerated": 241,
+    "numberRecorded": 189
+  },
+  {
+    "id": 1798,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7543610494440378,
+    "numberGenerated": 477,
+    "numberRecorded": 347
+  },
+  {
+    "id": 1799,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7648942756230183,
+    "numberGenerated": 120,
+    "numberRecorded": 94
+  },
+  {
+    "id": 1800,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.19515427379509281,
+    "numberGenerated": 241,
+    "numberRecorded": 59
+  },
+  {
+    "id": 1801,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5849760328296042,
+    "numberGenerated": 478,
+    "numberRecorded": 276
+  },
+  {
+    "id": 1802,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1803,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5330624910804136,
+    "numberGenerated": 242,
+    "numberRecorded": 129
+  },
+  {
+    "id": 1804,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1805,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.795803875608066,
+    "numberGenerated": 241,
+    "numberRecorded": 187
+  },
+  {
+    "id": 1806,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5163305157095797,
+    "numberGenerated": 121,
+    "numberRecorded": 63
+  },
+  {
+    "id": 1807,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5641021556099807,
+    "numberGenerated": 120,
+    "numberRecorded": 66
+  },
+  {
+    "id": 1808,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2370957141984204,
+    "numberGenerated": 482,
+    "numberRecorded": 110
+  },
+  {
+    "id": 1809,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1810,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 482,
+    "numberRecorded": 482
+  },
+  {
+    "id": 1811,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 119,
+    "numberRecorded": 119
+  },
+  {
+    "id": 1812,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8428538438349463,
+    "numberGenerated": 120,
+    "numberRecorded": 100
+  },
+  {
+    "id": 1813,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1814,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 242,
+    "numberRecorded": 242
+  },
+  {
+    "id": 1815,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1816,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1817,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7786611196161497,
+    "numberGenerated": 121,
+    "numberRecorded": 100
+  },
+  {
+    "id": 1818,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1819,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5443626220488424,
+    "numberGenerated": 121,
+    "numberRecorded": 71
+  },
+  {
+    "id": 1820,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7893664051616937,
+    "numberGenerated": 120,
+    "numberRecorded": 97
+  },
+  {
+    "id": 1821,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.15841935304139254,
+    "numberGenerated": 240,
+    "numberRecorded": 44
+  },
+  {
+    "id": 1822,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5465252738147995,
+    "numberGenerated": 484,
+    "numberRecorded": 254
+  },
+  {
+    "id": 1823,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7725059200366021,
+    "numberGenerated": 477,
+    "numberRecorded": 375
+  },
+  {
+    "id": 1824,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7791293000995474,
+    "numberGenerated": 477,
+    "numberRecorded": 354
+  },
+  {
+    "id": 1825,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7902348329970674,
+    "numberGenerated": 119,
+    "numberRecorded": 89
+  },
+  {
+    "id": 1826,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5098223979724096,
+    "numberGenerated": 237,
+    "numberRecorded": 112
+  },
+  {
+    "id": 1827,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5381340897641914,
+    "numberGenerated": 240,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1828,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2286118700800505,
+    "numberGenerated": 121,
+    "numberRecorded": 32
+  },
+  {
+    "id": 1829,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2891997558263899,
+    "numberGenerated": 120,
+    "numberRecorded": 38
+  },
+  {
+    "id": 1830,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1831,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.1904431009262207,
+    "numberGenerated": 122,
+    "numberRecorded": 14
+  },
+  {
+    "id": 1832,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1833,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2705644299828644,
+    "numberGenerated": 240,
+    "numberRecorded": 81
+  },
+  {
+    "id": 1834,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8217258928107201,
+    "numberGenerated": 479,
+    "numberRecorded": 379
+  },
+  {
+    "id": 1835,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 489,
+    "numberRecorded": 489
+  },
+  {
+    "id": 1836,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.24158025713048034,
+    "numberGenerated": 482,
+    "numberRecorded": 119
+  },
+  {
+    "id": 1837,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2943484117234065,
+    "numberGenerated": 238,
+    "numberRecorded": 66
+  },
+  {
+    "id": 1838,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 245,
+    "numberRecorded": 245
+  },
+  {
+    "id": 1839,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5088579319283227,
+    "numberGenerated": 480,
+    "numberRecorded": 262
+  },
+  {
+    "id": 1840,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8045428964194301,
+    "numberGenerated": 484,
+    "numberRecorded": 385
+  },
+  {
+    "id": 1841,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 482,
+    "numberRecorded": 482
+  },
+  {
+    "id": 1842,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.24684677436309815,
+    "numberGenerated": 484,
+    "numberRecorded": 109
+  },
+  {
+    "id": 1843,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 238,
+    "numberRecorded": 238
+  },
+  {
+    "id": 1844,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 122,
+    "numberRecorded": 122
+  },
+  {
+    "id": 1845,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 119,
+    "numberRecorded": 119
+  },
+  {
+    "id": 1846,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5746236374171806,
+    "numberGenerated": 120,
+    "numberRecorded": 72
+  },
+  {
+    "id": 1847,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5165393018648949,
+    "numberGenerated": 120,
+    "numberRecorded": 59
+  },
+  {
+    "id": 1848,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.21408748080219925,
+    "numberGenerated": 482,
+    "numberRecorded": 105
+  },
+  {
+    "id": 1849,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8384620645024957,
+    "numberGenerated": 238,
+    "numberRecorded": 196
+  },
+  {
+    "id": 1850,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.25218489867413824,
+    "numberGenerated": 242,
+    "numberRecorded": 58
+  },
+  {
+    "id": 1851,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5248033221380355,
+    "numberGenerated": 121,
+    "numberRecorded": 71
+  },
+  {
+    "id": 1852,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.83794958235279,
+    "numberGenerated": 480,
+    "numberRecorded": 399
+  },
+  {
+    "id": 1853,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5616149327463325,
+    "numberGenerated": 478,
+    "numberRecorded": 261
+  },
+  {
+    "id": 1854,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5819972189682547,
+    "numberGenerated": 120,
+    "numberRecorded": 68
+  },
+  {
+    "id": 1855,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8155814936493968,
+    "numberGenerated": 239,
+    "numberRecorded": 185
+  },
+  {
+    "id": 1856,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5188175358050048,
+    "numberGenerated": 479,
+    "numberRecorded": 225
+  },
+  {
+    "id": 1857,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7900713061742678,
+    "numberGenerated": 240,
+    "numberRecorded": 190
+  },
+  {
+    "id": 1858,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.32421640019699527,
+    "numberGenerated": 238,
+    "numberRecorded": 77
+  },
+  {
+    "id": 1859,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.30878154148699477,
+    "numberGenerated": 238,
+    "numberRecorded": 72
+  },
+  {
+    "id": 1860,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.1661311460921183,
+    "numberGenerated": 240,
+    "numberRecorded": 43
+  },
+  {
+    "id": 1861,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5977497870314729,
+    "numberGenerated": 236,
+    "numberRecorded": 144
+  },
+  {
+    "id": 1862,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5951391777639773,
+    "numberGenerated": 120,
+    "numberRecorded": 70
+  },
+  {
+    "id": 1863,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.763868845092041,
+    "numberGenerated": 481,
+    "numberRecorded": 377
+  },
+  {
+    "id": 1864,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1865,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.3204642120766567,
+    "numberGenerated": 121,
+    "numberRecorded": 34
+  },
+  {
+    "id": 1866,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1867,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5710132378330292,
+    "numberGenerated": 495,
+    "numberRecorded": 274
+  },
+  {
+    "id": 1868,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7633937816987931,
+    "numberGenerated": 242,
+    "numberRecorded": 179
+  },
+  {
+    "id": 1869,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5131279539690612,
+    "numberGenerated": 244,
+    "numberRecorded": 126
+  },
+  {
+    "id": 1870,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1871,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5393824190863804,
+    "numberGenerated": 472,
+    "numberRecorded": 261
+  },
+  {
+    "id": 1872,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 474,
+    "numberRecorded": 474
+  },
+  {
+    "id": 1873,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 477,
+    "numberRecorded": 477
+  },
+  {
+    "id": 1874,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8365968413381155,
+    "numberGenerated": 120,
+    "numberRecorded": 102
+  },
+  {
+    "id": 1875,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5659849673154884,
+    "numberGenerated": 239,
+    "numberRecorded": 130
+  },
+  {
+    "id": 1876,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 119,
+    "numberRecorded": 119
+  },
+  {
+    "id": 1877,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5153249247910848,
+    "numberGenerated": 241,
+    "numberRecorded": 122
+  },
+  {
+    "id": 1878,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1879,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5001919052994875,
+    "numberGenerated": 120,
+    "numberRecorded": 61
+  },
+  {
+    "id": 1880,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 238,
+    "numberRecorded": 238
+  },
+  {
+    "id": 1881,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7615111470932889,
+    "numberGenerated": 489,
+    "numberRecorded": 346
+  },
+  {
+    "id": 1882,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8325266549374598,
+    "numberGenerated": 481,
+    "numberRecorded": 402
+  },
+  {
+    "id": 1883,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8197560663937741,
+    "numberGenerated": 121,
+    "numberRecorded": 92
+  },
+  {
+    "id": 1884,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.22728533684645735,
+    "numberGenerated": 242,
+    "numberRecorded": 68
+  },
+  {
+    "id": 1885,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2399895477495431,
+    "numberGenerated": 120,
+    "numberRecorded": 30
+  },
+  {
+    "id": 1886,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1887,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 477,
+    "numberRecorded": 477
+  },
+  {
+    "id": 1888,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2602414798000409,
+    "numberGenerated": 484,
+    "numberRecorded": 127
+  },
+  {
+    "id": 1889,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5415094846675268,
+    "numberGenerated": 121,
+    "numberRecorded": 68
+  },
+  {
+    "id": 1890,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.3094891950674981,
+    "numberGenerated": 486,
+    "numberRecorded": 156
+  },
+  {
+    "id": 1891,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7950078180850306,
+    "numberGenerated": 120,
+    "numberRecorded": 99
+  },
+  {
+    "id": 1892,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1893,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.18873440661110044,
+    "numberGenerated": 479,
+    "numberRecorded": 106
+  },
+  {
+    "id": 1894,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1895,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8414526430148015,
+    "numberGenerated": 482,
+    "numberRecorded": 400
+  },
+  {
+    "id": 1896,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8429789624801017,
+    "numberGenerated": 492,
+    "numberRecorded": 414
+  },
+  {
+    "id": 1897,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.15697499226918835,
+    "numberGenerated": 482,
+    "numberRecorded": 77
+  },
+  {
+    "id": 1898,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7990896556309924,
+    "numberGenerated": 121,
+    "numberRecorded": 105
+  },
+  {
+    "id": 1899,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5488835152338923,
+    "numberGenerated": 475,
+    "numberRecorded": 251
+  },
+  {
+    "id": 1900,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1901,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5635308260360339,
+    "numberGenerated": 121,
+    "numberRecorded": 61
+  },
+  {
+    "id": 1902,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8389383102251491,
+    "numberGenerated": 243,
+    "numberRecorded": 208
+  },
+  {
+    "id": 1903,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 480,
+    "numberRecorded": 480
+  },
+  {
+    "id": 1904,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8033724544921463,
+    "numberGenerated": 478,
+    "numberRecorded": 384
+  },
+  {
+    "id": 1905,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.30320907955861387,
+    "numberGenerated": 121,
+    "numberRecorded": 37
+  },
+  {
+    "id": 1906,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1907,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8481723927847177,
+    "numberGenerated": 482,
+    "numberRecorded": 413
+  },
+  {
+    "id": 1908,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.17244907618908267,
+    "numberGenerated": 241,
+    "numberRecorded": 30
+  },
+  {
+    "id": 1909,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8136064081073199,
+    "numberGenerated": 475,
+    "numberRecorded": 386
+  },
+  {
+    "id": 1910,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2202229133468641,
+    "numberGenerated": 239,
+    "numberRecorded": 47
+  },
+  {
+    "id": 1911,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.25961822261048706,
+    "numberGenerated": 122,
+    "numberRecorded": 29
+  },
+  {
+    "id": 1912,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7727364387217411,
+    "numberGenerated": 122,
+    "numberRecorded": 87
+  },
+  {
+    "id": 1913,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1914,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5054884744666241,
+    "numberGenerated": 240,
+    "numberRecorded": 113
+  },
+  {
+    "id": 1915,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2115147672535051,
+    "numberGenerated": 120,
+    "numberRecorded": 23
+  },
+  {
+    "id": 1916,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5121359822699716,
+    "numberGenerated": 238,
+    "numberRecorded": 132
+  },
+  {
+    "id": 1917,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.2476133839833104,
+    "numberGenerated": 481,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1918,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 476,
+    "numberRecorded": 476
+  },
+  {
+    "id": 1919,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8014298502317156,
+    "numberGenerated": 120,
+    "numberRecorded": 97
+  },
+  {
+    "id": 1920,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2933832074300529,
+    "numberGenerated": 486,
+    "numberRecorded": 154
+  },
+  {
+    "id": 1921,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1922,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 491,
+    "numberRecorded": 491
+  },
+  {
+    "id": 1923,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5344364529349013,
+    "numberGenerated": 480,
+    "numberRecorded": 249
+  },
+  {
+    "id": 1924,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7550542900180995,
+    "numberGenerated": 238,
+    "numberRecorded": 180
+  },
+  {
+    "id": 1925,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 488,
+    "numberRecorded": 488
+  },
+  {
+    "id": 1926,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5683701244408506,
+    "numberGenerated": 121,
+    "numberRecorded": 74
+  },
+  {
+    "id": 1927,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5069521878785784,
+    "numberGenerated": 121,
+    "numberRecorded": 70
+  },
+  {
+    "id": 1928,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 480,
+    "numberRecorded": 480
+  },
+  {
+    "id": 1929,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1930,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.563898421267276,
+    "numberGenerated": 120,
+    "numberRecorded": 69
+  },
+  {
+    "id": 1931,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7803035108917323,
+    "numberGenerated": 478,
+    "numberRecorded": 372
+  },
+  {
+    "id": 1932,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1933,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5892947055649718,
+    "numberGenerated": 490,
+    "numberRecorded": 281
+  },
+  {
+    "id": 1934,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8001412560972083,
+    "numberGenerated": 240,
+    "numberRecorded": 185
+  },
+  {
+    "id": 1935,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1936,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.833653676407039,
+    "numberGenerated": 120,
+    "numberRecorded": 99
+  },
+  {
+    "id": 1937,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5943283052080467,
+    "numberGenerated": 241,
+    "numberRecorded": 134
+  },
+  {
+    "id": 1938,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8374562558847749,
+    "numberGenerated": 486,
+    "numberRecorded": 414
+  },
+  {
+    "id": 1939,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 481,
+    "numberRecorded": 481
+  },
+  {
+    "id": 1940,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1941,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.568359502289852,
+    "numberGenerated": 492,
+    "numberRecorded": 293
+  },
+  {
+    "id": 1942,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8127036625834109,
+    "numberGenerated": 122,
+    "numberRecorded": 98
+  },
+  {
+    "id": 1943,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1944,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 479,
+    "numberRecorded": 479
+  },
+  {
+    "id": 1945,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 237,
+    "numberRecorded": 237
+  },
+  {
+    "id": 1946,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 242,
+    "numberRecorded": 242
+  },
+  {
+    "id": 1947,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5734473333341918,
+    "numberGenerated": 121,
+    "numberRecorded": 67
+  },
+  {
+    "id": 1948,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1949,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 479,
+    "numberRecorded": 479
+  },
+  {
+    "id": 1950,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8258137715982293,
+    "numberGenerated": 239,
+    "numberRecorded": 192
+  },
+  {
+    "id": 1951,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5490353605401579,
+    "numberGenerated": 475,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1952,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1953,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1954,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2926113613671478,
+    "numberGenerated": 242,
+    "numberRecorded": 76
+  },
+  {
+    "id": 1955,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7736132864029736,
+    "numberGenerated": 242,
+    "numberRecorded": 184
+  },
+  {
+    "id": 1956,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8391006213024106,
+    "numberGenerated": 120,
+    "numberRecorded": 102
+  },
+  {
+    "id": 1957,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 239,
+    "numberRecorded": 239
+  },
+  {
+    "id": 1958,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.30353195343009504,
+    "numberGenerated": 119,
+    "numberRecorded": 40
+  },
+  {
+    "id": 1959,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 483,
+    "numberRecorded": 483
+  },
+  {
+    "id": 1960,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.849981354478456,
+    "numberGenerated": 242,
+    "numberRecorded": 215
+  },
+  {
+    "id": 1961,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5592166523545694,
+    "numberGenerated": 486,
+    "numberRecorded": 271
+  },
+  {
+    "id": 1962,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.21072076614790447,
+    "numberGenerated": 238,
+    "numberRecorded": 49
+  },
+  {
+    "id": 1963,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8429879530582648,
+    "numberGenerated": 241,
+    "numberRecorded": 195
+  },
+  {
+    "id": 1964,
+    "rate": 4,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.20210635949044387,
+    "numberGenerated": 242,
+    "numberRecorded": 40
+  },
+  {
+    "id": 1965,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8095733973077156,
+    "numberGenerated": 239,
+    "numberRecorded": 194
+  },
+  {
+    "id": 1966,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 120,
+    "numberRecorded": 120
+  },
+  {
+    "id": 1967,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.1659301148898301,
+    "numberGenerated": 482,
+    "numberRecorded": 85
+  },
+  {
+    "id": 1968,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5869983897183969,
+    "numberGenerated": 481,
+    "numberRecorded": 277
+  },
+  {
+    "id": 1969,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.3230317018231687,
+    "numberGenerated": 240,
+    "numberRecorded": 83
+  },
+  {
+    "id": 1970,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 474,
+    "numberRecorded": 474
+  },
+  {
+    "id": 1971,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1972,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 481,
+    "numberRecorded": 481
+  },
+  {
+    "id": 1973,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.824145155605174,
+    "numberGenerated": 473,
+    "numberRecorded": 387
+  },
+  {
+    "id": 1974,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.8180215166837079,
+    "numberGenerated": 120,
+    "numberRecorded": 92
+  },
+  {
+    "id": 1975,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 478,
+    "numberRecorded": 478
+  },
+  {
+    "id": 1976,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.2939929915898255,
+    "numberGenerated": 239,
+    "numberRecorded": 60
+  },
+  {
+    "id": 1977,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 241,
+    "numberRecorded": 241
+  },
+  {
+    "id": 1978,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5452378121628475,
+    "numberGenerated": 481,
+    "numberRecorded": 265
+  },
+  {
+    "id": 1979,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7914975900524472,
+    "numberGenerated": 239,
+    "numberRecorded": 187
+  },
+  {
+    "id": 1980,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7993423413748718,
+    "numberGenerated": 121,
+    "numberRecorded": 91
+  },
+  {
+    "id": 1981,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 482,
+    "numberRecorded": 482
+  },
+  {
+    "id": 1982,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7888228393755131,
+    "numberGenerated": 121,
+    "numberRecorded": 97
+  },
+  {
+    "id": 1983,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1984,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 471,
+    "numberRecorded": 471
+  },
+  {
+    "id": 1985,
+    "rate": 8,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.5215352556633964,
+    "numberGenerated": 483,
+    "numberRecorded": 258
+  },
+  {
+    "id": 1986,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 121,
+    "numberRecorded": 121
+  },
+  {
+    "id": 1987,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7913257801980209,
+    "numberGenerated": 121,
+    "numberRecorded": 97
+  },
+  {
+    "id": 1988,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7677149326369176,
+    "numberGenerated": 240,
+    "numberRecorded": 187
+  },
+  {
+    "id": 1989,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.8310954505704555,
+    "numberGenerated": 120,
+    "numberRecorded": 102
+  },
+  {
+    "id": 1990,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 243,
+    "numberRecorded": 243
+  },
+  {
+    "id": 1991,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.24424457496038057,
+    "numberGenerated": 121,
+    "numberRecorded": 34
+  },
+  {
+    "id": 1992,
+    "rate": 2,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.836714923413417,
+    "numberGenerated": 120,
+    "numberRecorded": 95
+  },
+  {
+    "id": 1993,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 242,
+    "numberRecorded": 242
+  },
+  {
+    "id": 1994,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 240,
+    "numberRecorded": 240
+  },
+  {
+    "id": 1995,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5284899566497001,
+    "numberGenerated": 120,
+    "numberRecorded": 72
+  },
+  {
+    "id": 1996,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.7677626258249081,
+    "numberGenerated": 121,
+    "numberRecorded": 96
+  },
+  {
+    "id": 1997,
+    "rate": 4,
+    "labeled": false,
+    "jitter": 0.1,
+    "successRate": 0.7637694695023803,
+    "numberGenerated": 237,
+    "numberRecorded": 176
+  },
+  {
+    "id": 1998,
+    "rate": 8,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 1,
+    "numberGenerated": 484,
+    "numberRecorded": 484
+  },
+  {
+    "id": 1999,
+    "rate": 2,
+    "labeled": true,
+    "jitter": 0.1,
+    "successRate": 0.5149384234446943,
+    "numberGenerated": 120,
+    "numberRecorded": 54
+  }
+]
