@@ -1,4 +1,4 @@
-In a certain neuroscience experiment neuron "spikes" (brief voltage
+    In a certain neuroscience experiment neuron "spikes" (brief voltage
 spikes characterized by a single moment in time) are measured with an
 electrode implanted into the cortex. Previous experiments have
 demonstrated that three types of neurons are present (in roughly equal
